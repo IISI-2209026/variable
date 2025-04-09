@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "**/variable/*.yml": "azure-pipelines",
+        "**/variable/*.yaml": "azure-pipelines"
+    },
+    "files.autoSave": "afterDelay"
+}
